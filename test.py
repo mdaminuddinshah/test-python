@@ -19,3 +19,17 @@ good = 'shah'
 GOOD = 12
 
 print("his name is {} and he is {}" .format(good, GOOD))
+
+# PRINT WITH COMMAS 
+kind = 'hanim'
+KIND = 12 
+
+print("her name is", kind, "and", KIND)
+
+# PRINT WITH CONCATENATION
+nice = 'farida'
+NICE = 12
+
+print("she " + nice + " really great " + "person " + "and is she " + str(NICE))
+
+
